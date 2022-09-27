@@ -1,0 +1,25 @@
+.header
+{
+    width: 100vw;
+    background-color: rgb(2, 2, 92);
+    color: white;
+    display: flex;
+    height: 10rem;
+    justify-content: space-around;
+    font-size: 2rem;
+    align-items: center;
+
+}
+.list 
+{
+    list-style: none;
+    color: white;
+}
+
+.link
+{
+    text-decoration: none;
+    color: white;
+    
+
+}

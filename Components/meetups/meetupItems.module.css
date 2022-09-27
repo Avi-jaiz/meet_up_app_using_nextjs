@@ -1,0 +1,38 @@
+.meetupItem
+{
+    display: flex;
+    flex-direction: column; 
+    color: white;
+}
+
+.meetUpImg
+{
+    
+    width: 45rem;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+}
+
+.meetUpHead 
+{
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+.meetUpButton 
+{
+    width: 7.5rem;
+    height: 2.5rem;
+    background-color: rgb(19, 123, 243);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+.img 
+{
+    width: 40rem;
+}

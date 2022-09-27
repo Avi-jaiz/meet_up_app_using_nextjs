@@ -1,9 +1,11 @@
-.homePage
+.MeetupList
 {
-    width: 100vw;
     display: flex;
     flex-direction: column;
+    background-color: yellow;
+    width: 100vw;
     justify-content: center;
+    align-items: center;
     
 }
 
